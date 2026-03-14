@@ -33,7 +33,7 @@ clean, maintainable code.
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Apawintment](https://apawintment.com) | Multi-tenant booking SaaS — live commercial product | Next.js, MongoDB, JWT |
+| [Apawintment](https://apawintment.com) | Multi-tenant booking SaaS — live commercial product | Next.js, Supabase, TypeScript |
 | [Coinnect](https://vukan-vuckovic.vercel.app/coinnect) | Full-stack banking platform with accounts, cards & analytics | Next.js, GraphQL, MongoDB |
 | [SkySwift](https://vukan-vuckovic.vercel.app/skyswift) | Flight booking system with dynamic pricing & seat selection | Next.js, Redux, MongoDB |
 | [ApplyWise](https://vukan-vuckovic.vercel.app/applywise) | Job application tracker with collaborative progress tracking | Next.js, Appwrite |
